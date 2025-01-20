@@ -72,3 +72,6 @@ public class MyEchoClient {
         echoSocket.close();
     }
 }
+
+// Change log
+// Version 1.0
